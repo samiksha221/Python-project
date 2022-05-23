@@ -1,0 +1,23 @@
+	Welcome to  our shop
+
+ Bill number:3663
+ Customer Name:wedad
+ Phone Number :1313131
+ =================================
+ products		QTY		Price
+ =================================
+ Vanilla		1		40
+ chocolate		1		8000
+ strawberry		1		75
+ butterscotch		1		80
+ choco_chip		1		100
+ LCD		1		20000
+ Cooler		1		8000
+ mobile		1		10000
+ Refrigerator		1		25000
+ laptops		1		30000
+ ------------------------
+ Icecream_tax			Rs. 35.5
+ Homeappliances_tax			Rs. 4650.0
+ total Bill :			 Rs. 98040.5
+ -------------------------
